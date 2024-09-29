@@ -1,4 +1,4 @@
-<img src="img/logoparkline.PNG" alt="Logo del Estacionamiento" width="150"/>
+<img src="https://github.com/mofuel/parkline/blob/main/logoparkline.PNG" width="150"/>
 
 ## ParkLine SAC
 #### Jr. Sebastián Barranca Con, La Victoria 15030
